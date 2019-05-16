@@ -1,0 +1,12 @@
+{
+  "name": "graphpack-example",
+  "version": "1.0.0",
+  "description": "Official Graphpack example",
+  "private": true,
+  "scripts": {
+    "start": "graphpack"
+  },
+  "devDependencies": {
+    "graphpack": "1.0.2"
+  }
+}
